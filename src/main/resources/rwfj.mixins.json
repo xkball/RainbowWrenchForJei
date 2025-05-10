@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.vfyjxf.rwfj.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "shoot_screen.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "MixinIngredientListOverlay"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
